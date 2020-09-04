@@ -9,5 +9,3 @@ CREATE TABLE albums (
     genre VARCHAR(30),
     PRIMARY KEY (id)
 );
-DESCRIBE albums;
-SHOW CREATE albums;
